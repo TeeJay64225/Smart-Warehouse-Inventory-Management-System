@@ -214,3 +214,4 @@ users ─────────── roles
 
 MIT License — free to use for commercial and personal projects.
 # Smart-Warehouse-Inventory-Management-System
+# Smart-Warehouse-Inventory-Management-System
